@@ -1,0 +1,16 @@
+# Exact versions of the env used to build DemoData/chained_ds_grid_unity.json (Python 3.9.25).
+# Install into a Python 3.9 env, together with a clone of https://github.com/KilianFt/DemoStitching at ~/DemoStitching.
+numpy==2.0.2
+scipy==1.13.1
+matplotlib==3.9.4
+scikit-learn==1.6.1
+pandas==2.3.3
+networkx==3.2.1
+casadi==3.8.2
+cvxpy==1.7.5
+clarabel==0.11.1
+osqp==1.1.3
+scs==3.3.1
+gmr==2.0.3
+pyLasaDataset==0.2.1
+fastdtw==0.3.4

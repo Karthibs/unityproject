@@ -4,3 +4,22 @@ Obj/
 Logs/
 UserSettings/
 Builds/
+
+# Claude Code personal settings
+.claude/settings.local.json
+
+# Unity IDE / generated project files
+*.csproj
+*.sln
+.vs/
+.vscode/
+.idea/
+MemoryCaptures/
+# Unity crash-recovery copies of scenes
+Assets/_Recovery/
+Assets/_Recovery.meta
+
+# Python / macOS
+__pycache__/
+*.pyc
+.DS_Store

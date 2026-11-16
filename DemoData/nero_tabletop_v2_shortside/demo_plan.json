@@ -1,0 +1,11 @@
+{
+  "frame": "unity_world_left_handed_y_up",
+  "units": {"x": "m", "x_dot": "m/s"},
+  "points_per_trajectory": 180,
+  "trajectories_per_demo": 6,
+  "seed": 7,
+  "demonstrations": [
+    {"demo_dir": "demonstration_0", "name": "red_to_trayB", "start_object": "Red Cube", "end_object": "Tray B - Yellow", "start_anchor": [-0.0999996141, 0.86, -0.2500002], "end_anchor": [-0.33, 0.86, 0.36], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_1", "name": "blue_to_trayA", "start_object": "Blue Cube", "end_object": "Tray A - White", "start_anchor": [-0.279999673, 0.86, -0.3600002], "end_anchor": [-0.08, 0.86, 0.24], "hub": [-0.13, 0.875, 0]}
+  ]
+}

@@ -1,0 +1,13 @@
+name,x,y,z,pos_err_m,rot_err_deg,reached
+Red Cube grasp,-0.362,0.765,-0.303,0.0032,0.00,True
+Blue Cube grasp,-0.320,0.765,-0.195,0.0030,1.11,True
+Green Cube grasp,-0.248,0.765,-0.105,0.0030,0.91,True
+Purple Cube grasp,-0.150,0.765,-0.042,0.0026,1.46,True
+Tray A - White place,0.257,0.800,-0.074,0.0032,0.00,True
+Tray B - Yellow place,0.367,0.800,-0.282,0.0028,1.46,True
+Red Cube above,-0.362,0.860,-0.303,0.0085,0.00,True
+Blue Cube above,-0.320,0.860,-0.195,0.0044,0.00,True
+Green Cube above,-0.248,0.860,-0.105,0.0032,0.00,True
+Purple Cube above,-0.150,0.860,-0.042,0.0030,0.26,True
+Tray A - White above,0.257,0.860,-0.074,0.0039,0.00,True
+Tray B - Yellow above,0.367,0.860,-0.282,0.0078,0.00,True

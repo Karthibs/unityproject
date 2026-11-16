@@ -1,0 +1,27 @@
+{
+  "frame": "unity_world_left_handed_y_up",
+  "units": {"x": "m", "x_dot": "m/s"},
+  "points_per_trajectory": 180,
+  "trajectories_per_demo": 4,
+  "seed": 7,
+  "demonstrations": [
+    {"demo_dir": "demonstration_0", "name": "A1_to_rest", "start_object": "Cell A1", "end_object": "Grid Rest", "start_anchor": [-0.289777756, 0.86, -0.302354276], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_1", "name": "A2_to_rest", "start_object": "Cell A2", "end_object": "Grid Rest", "start_anchor": [-0.212132037, 0.86, -0.167867959], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_2", "name": "A3_to_rest", "start_object": "Cell A3", "end_object": "Grid Rest", "start_anchor": [-0.07764572, 0.86, -0.09022224], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_3", "name": "A4_to_rest", "start_object": "Cell A4", "end_object": "Grid Rest", "start_anchor": [0.07764572, 0.86, -0.09022224], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_4", "name": "A5_to_rest", "start_object": "Cell A5", "end_object": "Grid Rest", "start_anchor": [0.212132037, 0.86, -0.167867959], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_5", "name": "A6_to_rest", "start_object": "Cell A6", "end_object": "Grid Rest", "start_anchor": [0.289777756, 0.86, -0.302354276], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_6", "name": "B1_to_rest", "start_object": "Cell B1", "end_object": "Grid Rest", "start_anchor": [-0.35739255, 0.86, -0.284236938], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_7", "name": "B2_to_rest", "start_object": "Cell B2", "end_object": "Grid Rest", "start_anchor": [-0.261629522, 0.86, -0.118370488], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_8", "name": "B3_to_rest", "start_object": "Cell B3", "end_object": "Grid Rest", "start_anchor": [-0.09576305, 0.86, -0.02260744], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_9", "name": "B4_to_rest", "start_object": "Cell B4", "end_object": "Grid Rest", "start_anchor": [0.09576305, 0.86, -0.02260744], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_10", "name": "B5_to_rest", "start_object": "Cell B5", "end_object": "Grid Rest", "start_anchor": [0.261629522, 0.86, -0.118370488], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_11", "name": "B6_to_rest", "start_object": "Cell B6", "end_object": "Grid Rest", "start_anchor": [0.35739255, 0.86, -0.284236938], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_12", "name": "C1_to_rest", "start_object": "Cell C1", "end_object": "Grid Rest", "start_anchor": [-0.425007343, 0.86, -0.2661196], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_13", "name": "C2_to_rest", "start_object": "Cell C2", "end_object": "Grid Rest", "start_anchor": [-0.311126977, 0.86, -0.06887302], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_14", "name": "C3_to_rest", "start_object": "Cell C3", "end_object": "Grid Rest", "start_anchor": [-0.113880381, 0.86, 0.04500736], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_15", "name": "C4_to_rest", "start_object": "Cell C4", "end_object": "Grid Rest", "start_anchor": [0.113880381, 0.86, 0.04500736], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_16", "name": "C5_to_rest", "start_object": "Cell C5", "end_object": "Grid Rest", "start_anchor": [0.311126977, 0.86, -0.06887302], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]},
+    {"demo_dir": "demonstration_17", "name": "C6_to_rest", "start_object": "Cell C6", "end_object": "Grid Rest", "start_anchor": [0.425007343, 0.86, -0.2661196], "end_anchor": [0, 0.86, -0.02], "hub": [-0.13, 0.875, 0]}
+  ]
+}

@@ -1,6 +1,14 @@
 # SSY226_SIMULATION
 
-Status: prepared project; Unity Editor compilation and robot import are not yet verified.
+**Current state (2026-11-16):** DemoStitching runs on the NERO arm in `Assets/NeroTabletop.unity`.
+The arm moves between any two cells of an 18-cell grid using stitched demonstrations; press Play and use
+the grid panel (START, END, GO). See [`CLAUDE.md`](CLAUDE.md) for the full project state, the setup on a
+new machine (macOS) and the results, and [`Tools/demostitching/README.md`](Tools/demostitching/README.md)
+for the Python pipeline. Plots: `Verification/plots/`.
+
+The original setup notes below are from the initial project (Windows) and are kept for reference.
+
+Status (initial): prepared project; Unity Editor compilation and robot import are not yet verified.
 
 ## Install and open
 

@@ -1,0 +1,10 @@
+DemoStitching transport benchmark (2026-11-06 19:25)
+- demonstrated Red Cube -> Tray B - Yellow: arrived in 5.78 s, path vs Python mean 14.4 mm / max 24.3 mm, max gripper tilt 3.3 deg, speed-clipped 0% of steps
+    pick/place: placed: object at (-0.348, 0.777, 0.360)
+- stitched Red Cube -> Tray A - White: arrived in 5.42 s, path vs Python mean 16.6 mm / max 35.5 mm, max gripper tilt 2.3 deg, speed-clipped 0% of steps
+    pick/place: placed: object at (-0.101, 0.777, 0.235)
+- stitched Blue Cube -> Tray B - Yellow: arrived in 5.64 s, path vs Python mean 9.8 mm / max 18.4 mm, max gripper tilt 2.5 deg, speed-clipped 0% of steps
+    pick/place: placed: object at (-0.348, 0.777, 0.360)
+- demonstrated Blue Cube -> Tray A - White: arrived in 5.45 s, path vs Python mean 10.8 mm / max 18.2 mm, max gripper tilt 1.8 deg, speed-clipped 0% of steps
+    pick/place: placed: object at (-0.101, 0.777, 0.237)
+placed 4/4

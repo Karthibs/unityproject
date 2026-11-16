@@ -3,6 +3,7 @@ using UnityEngine;
 public class TabletopReset : MonoBehaviour
 {
     public Rigidbody[] objects;
+    public bool showGui = true;
     Vector3[] positions;
     Quaternion[] rotations;
 
@@ -31,6 +32,7 @@ public class TabletopReset : MonoBehaviour
 
     void OnGUI()
     {
+        if (!showGui) return;
         GUI.Box(new Rect(16, 16, 245, 83), "NERO tabletop sandbox");
         GUI.Label(new Rect(28, 42, 220, 20), "Red / blue blocks - two destination trays");
         if (GUI.Button(new Rect(28, 66, 220, 24), "Reset blocks")) ResetObjects();

@@ -1,0 +1,10 @@
+{
+  "frame": "unity_world_left_handed_y_up",
+  "units": {"x": "m", "x_dot": "m/s"},
+  "points_per_trajectory": 180,
+  "trajectories_per_demo": 1,
+  "seed": 7,
+  "demonstrations": [
+    {"demo_dir": "demonstration_0", "name": "diag_red_to_trayA", "start_object": "Red Cube", "end_object": "Tray A - White", "start_anchor": [-0.3619143, 0.86, -0.30307287], "end_anchor": [0.257115036, 0.86, -0.07358222], "hub": [-0.13, 0.875, 0]}
+  ]
+}

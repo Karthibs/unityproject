@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "com.unity.ai.assistant": "2.21.0-pre.2",
+    "com.unity.ai.inference": "2.6.1",
+    "com.unity.editorcoroutines": "1.0.0",
+    "com.unity.test-framework": "1.4.6",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.audio": "1.0.0",
     "com.unity.modules.imageconversion": "1.0.0",
@@ -9,8 +13,6 @@
     "com.unity.modules.ui": "1.0.0",
     "com.unity.modules.uielements": "1.0.0",
     "com.unity.modules.unitywebrequest": "1.0.0",
-    "com.unity.modules.unitywebrequesttexture": "1.0.0",
-    "com.unity.editorcoroutines": "1.0.0",
-    "com.unity.test-framework": "1.4.6"
+    "com.unity.modules.unitywebrequesttexture": "1.0.0"
   }
 }
